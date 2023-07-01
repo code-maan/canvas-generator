@@ -14,7 +14,7 @@ Requirements:
 
 Usage:
 1. Clone the project repository from (https://github.com/code-maan/canvas-generator.git).
-2. Open the project in a web browser by double-clicking the index.html file or hosting it on a local server.
+2. Open the project in a web browser by double-clicking the index.html file or hosting it on a local server(Your personal computer).
 3. Use the provided interface to customize the background by selecting colors, gradients, patterns, and effects.
 4. Preview the changes in real-time.
 5. Once satisfied with the background, use in the other projects.
@@ -24,7 +24,7 @@ Contributors:
 - [MD AMAAN ALAM] "amaan150618@gmail.com"
 
 License:
-This project is licensed under the MIT lice.
+This project is licensed under the MIT license.
 
 Contact:
 For any questions or suggestions, please contact [MD AMAAN ALAM] at amaan150618@gmail.com.
